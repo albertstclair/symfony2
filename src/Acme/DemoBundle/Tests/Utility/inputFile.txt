@@ -1,0 +1,3 @@
+substract 15
+multiply 4
+apply 10
